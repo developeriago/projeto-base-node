@@ -1,6 +1,6 @@
 ### Base para criação de API usando o ORM sequelize
 
-Projeto espelho para os próximo a serem criados
+Projeto espelho para os próximo a serem criados, com intuito de otimizar o processo de criação.
 
 ### Bibliotecas instaldas
 

@@ -4,7 +4,7 @@ Projeto espelho para os próximo a serem criados, com intuito de otimizar o proc
 
 ### Bibliotecas instaldas
 
-sudo npm install dotenv express pg pg-hstore sequelize validator
+sudo npm install dotenv express pg pg-hstore sequelize validator cors
 
 ### Instalar o TypeScript
 
@@ -18,9 +18,4 @@ tsc --init
 
 ### Instalar as tipagens do typescript
 
-sudo npm install -D @types/node @types/express @types/sequelize @types/validator
-
-### Instalar o cors e a tipagem
-
-npm instal cors
-npm install -D @types/cors
+sudo npm install -D @types/node @types/express @types/sequelize @types/validator @types/cors

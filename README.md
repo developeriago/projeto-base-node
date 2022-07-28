@@ -2,7 +2,7 @@
 
 Projeto espelho para os próximo a serem criados, com intuito de otimizar o processo de criação.
 
-### Bibliotecas instaldas
+### Bibliotecas instaladas
 
 sudo npm install dotenv express pg pg-hstore sequelize validator cors
 
